@@ -1,7 +1,7 @@
 # laGrille.js
 Ajoute une grille (colonnes avec des gouttières (facultatif)) sur votre page web (comme inDesign)
 
-![écran](laGrille_demo.png)
+![écran](laGrille_dmo.png)
 
 ## usage:
 
